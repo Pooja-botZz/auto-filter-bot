@@ -2,12 +2,12 @@
 <img src="https://1.bp.blogspot.com/-MEs3f2CnYH8/YQTs0XdFGSI/AAAAAAAAAhI/59BfS1WyjgAJUlYNqFR5L9wVrFOIY6uIACNcBGAsYHQ/s2048/20210731_115410.jpg">
 
 <p align="center">
-  <a href="https://github.com/Galib792/auto-filter-bot/stargazers">
+  <a href="https://github.com/Pooja-botZz/auto-filter-bot/stargazers">
     <img src="https://img.shields.io/github/stars/CrazyBotsz/Adv-Auto-Filter-Bot-V2?style=social">
 
   </a>
   
-  <a href="https://github.com/Galib792/auto-filter-bot/fork">
+  <a href="https://github.com/Pooja-botZz/auto-filter-bot/fork">
     <img src="https://img.shields.io/github/forks/CrazyBotsz/Adv-Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
